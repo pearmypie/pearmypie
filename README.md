@@ -1,7 +1,5 @@
 # 👋 Hello, I'm pearmypie! 🍐🥧
 
-![Profile Views](https://komarev.com/ghpvc/?username=pearmypie&color=blue)
-
 ## 🎓 About Me
 - 🏫 **3rd Year Student** at ASE Bucharest
 - 💼 Actively seeking **internship** or **full-time** opportunities
