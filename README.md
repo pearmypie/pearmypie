@@ -21,7 +21,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ioan-alexandru-catana/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ioancatana313@gmail.com)
 
-## 🏆 GitHub Stats
+## 🏆 GitHub Stats (updated Feb. 2025)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pearmypie&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearmypie&layout=compact&theme=radical)
 
